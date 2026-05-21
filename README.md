@@ -11,7 +11,7 @@ I feel it is my responsibility in this course, which teaches system-level progra
 
 One of my favorite nerd comics is XKCD. It definitely embodies the nerd ethic. It's also the source of the famous "Little Bobby Tables" joke. You can find it at [https://xkcd.com](https://xkcd.com).
 
-<img width=150 alt="QR Code for XKCD Link" src="assets/xkcd.png">
+<img width=300 alt="QR Code for XKCD Link" src="assets/xkcd.png">
 
 Here's today's comic:
 
@@ -21,7 +21,7 @@ Here's today's comic:
 
 I found this comic while I was in grad school (yes, it was in color). It captures the feeling of dread that comes with being a PhD student. You can find it at [https://phdcomics.com](https://phdcomics.com).
 
-<img width=150 alt="QR Code for PHD Comics Link" src="assets/phdcomics.png">
+<img width=300 alt="QR Code for PHD Comics Link" src="assets/phdcomics.png">
 
 Here's today's comic:
 
