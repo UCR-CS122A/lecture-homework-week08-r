@@ -14,7 +14,7 @@ One of my favorite nerd comics is XKCD. It definitely embodies the nerd ethic. I
 ![QR Code for XKCD Link](assets/xkcd.png)
 
 Here's today's comic:
-![XKCD Comic from May 21, 2026](https://imgs.xkcd.com/comics/182_8_meters.png)
+<img width=200 alt="XKCD Comic from May 21, 2026" src="https://imgs.xkcd.com/comics/182_8_meters.png">
 
 ### PHD Comics
 
@@ -23,7 +23,7 @@ I found this comic while I was in grad school (yes, it was in color). It capture
 ![QR Code for PHD Comics Link](assets/phdcomics.png)
 
 Here's today's comic:
-![PHD Comic from May 21, 2026](http://www.phdcomics.com/comics/archive/phd102221s.gif)
+<img width=500 alt="PHD Comic from May 21, 2026" src="http://www.phdcomics.com/comics/archive/phd102221s.gif">
 
 ## Your Assignment
 
